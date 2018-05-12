@@ -1,0 +1,29 @@
+_repo: My-Friend-Annabel-Lee_43624
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43624-h/images/cover.jpg
+creator:
+  author:
+    agent_name: MacLane, Mary
+    alias: Lane, Mary Mac
+    birthdate: 1881
+    deathdate: 1929
+    gutenberg_agent_id: '42291'
+    url: http://www.gutenberg.org/2009/agents/42291
+    wikipedia: http://en.wikipedia.org/wiki/Mary_MacLane#Books
+description: ''
+gutenberg_issued: '2013-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43624'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'MacLane, Mary, 1881-1929'
+- !lcc 'PS'
+- !lcsh 'Women authors, American -- Biography'
+title: My Friend Annabel Lee
+url: http://www.gutenberg.org/ebooks/43624
